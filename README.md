@@ -1,2 +1,2 @@
-# decision-tree-naive-bayes
+# Decision tree and Gaussian Naive Bayes
 Artificial Intelligence
